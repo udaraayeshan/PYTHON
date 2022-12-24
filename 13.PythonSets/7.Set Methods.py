@@ -18,4 +18,4 @@ remove()	      Removes the specified element
 symmetric_difference()	Returns a set with the symmetric differences of two sets
 symmetric_difference_update()	inserts the symmetric differences from this set and another
 union()	          Return a set containing the union of sets
-update()	      SUpdate the set with the union of this set and others'''
+update()	      Update the set with the union of this set and others'''
