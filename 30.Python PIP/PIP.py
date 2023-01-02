@@ -23,7 +23,7 @@
 
 #Using a Package
 
-import camelcase
+#import camelcase
 
 c = camelcase.CamelCase()
 
